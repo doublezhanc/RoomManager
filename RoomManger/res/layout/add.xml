@@ -1,0 +1,292 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/scrollView1"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/background1" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" >
+
+            <ToggleButton
+                android:id="@+id/toggleButton1"
+                android:layout_width="120dp"
+                android:layout_height="wrap_content"
+                android:text="ToggleButton"
+                android:textOn="人齐" />
+
+            <ToggleButton
+                android:id="@+id/toggleButton2"
+                android:layout_width="120dp"
+                android:layout_height="wrap_content"
+                android:text="ToggleButton"
+                android:textOn="人齐" />
+
+            <ToggleButton
+                android:id="@+id/toggleButton3"
+                android:layout_width="120dp"
+                android:layout_height="wrap_content"
+                android:text="ToggleButton"
+                android:textOn="人齐" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" >
+
+            <ToggleButton
+                android:id="@+id/toggleButton4"
+                android:layout_width="120dp"
+                android:layout_height="wrap_content"
+                android:text="ToggleButton"
+                android:textOn="人齐" />
+
+            <ToggleButton
+                android:id="@+id/toggleButton5"
+                android:layout_width="120dp"
+                android:layout_height="wrap_content"
+                android:text="ToggleButton"
+                android:textOn="人齐" />
+
+            <ToggleButton
+                android:id="@+id/toggleButton6"
+                android:layout_width="120dp"
+                android:layout_height="wrap_content"
+                android:text="ToggleButton"
+                android:textOn="人齐" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" >
+
+            <ToggleButton
+                android:id="@+id/toggleButton7"
+                android:layout_width="120dp"
+                android:layout_height="wrap_content"
+                android:text="ToggleButton"
+                android:textOn="人齐" />
+
+            <ToggleButton
+                android:id="@+id/toggleButton8"
+                android:layout_width="120dp"
+                android:layout_height="wrap_content"
+                android:text="ToggleButton"
+                android:textOn="人齐" />
+
+            <ToggleButton
+                android:id="@+id/toggleButton9"
+                android:layout_width="120dp"
+                android:layout_height="wrap_content"
+                android:text="ToggleButton"
+                android:textOn="人齐" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" >
+
+            <ToggleButton
+                android:id="@+id/toggleButton10"
+                android:layout_width="120dp"
+                android:layout_height="wrap_content"
+                android:text="ToggleButton"
+                android:textOn="人齐" />
+
+            <ToggleButton
+                android:id="@+id/toggleButton11"
+                android:layout_width="120dp"
+                android:layout_height="wrap_content"
+                android:text="ToggleButton"
+                android:textOn="人齐" />
+
+            <ToggleButton
+                android:id="@+id/toggleButton12"
+                android:layout_width="120dp"
+                android:layout_height="wrap_content"
+                android:text="ToggleButton"
+                android:textOn="人齐" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" >
+
+            <ToggleButton
+                android:id="@+id/toggleButton13"
+                android:layout_width="120dp"
+                android:layout_height="wrap_content"
+                android:text="ToggleButton"
+                android:textOn="人齐" />
+
+            <ToggleButton
+                android:id="@+id/toggleButton14"
+                android:layout_width="120dp"
+                android:layout_height="wrap_content"
+                android:text="ToggleButton"
+                android:textOn="人齐" />
+
+            <ToggleButton
+                android:id="@+id/toggleButton15"
+                android:layout_width="120dp"
+                android:layout_height="wrap_content"
+                android:text="ToggleButton"
+                android:textOn="人齐" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" >
+
+            <ToggleButton
+                android:id="@+id/toggleButton16"
+                android:layout_width="120dp"
+                android:layout_height="wrap_content"
+                android:text="ToggleButton"
+                android:textOn="人齐" />
+
+            <ToggleButton
+                android:id="@+id/toggleButton17"
+                android:layout_width="120dp"
+                android:layout_height="wrap_content"
+                android:text="ToggleButton"
+                android:textOn="人齐" />
+
+            <ToggleButton
+                android:id="@+id/toggleButton18"
+                android:layout_width="120dp"
+                android:layout_height="wrap_content"
+                android:text="ToggleButton"
+                android:textOn="人齐" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" >
+
+            <ToggleButton
+                android:id="@+id/toggleButton19"
+                android:layout_width="120dp"
+                android:layout_height="wrap_content"
+                android:text="ToggleButton"
+                android:textOn="人齐" />
+
+            <ToggleButton
+                android:id="@+id/toggleButton20"
+                android:layout_width="120dp"
+                android:layout_height="wrap_content"
+                android:text="ToggleButton"
+                android:textOn="人齐" />
+
+            <ToggleButton
+                android:id="@+id/toggleButton21"
+                android:layout_width="120dp"
+                android:layout_height="wrap_content"
+                android:text="ToggleButton"
+                android:textOn="人齐" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" >
+
+            <ToggleButton
+                android:id="@+id/toggleButton22"
+                android:layout_width="120dp"
+                android:layout_height="wrap_content"
+                android:text="ToggleButton"
+                android:textOn="人齐" />
+
+            <ToggleButton
+                android:id="@+id/toggleButton23"
+                android:layout_width="120dp"
+                android:layout_height="wrap_content"
+                android:text="ToggleButton"
+                android:textOn="人齐" />
+
+            <ToggleButton
+                android:id="@+id/toggleButton24"
+                android:layout_width="120dp"
+                android:layout_height="wrap_content"
+                android:text="ToggleButton"
+                android:textOn="人齐" />
+        </LinearLayout>
+        
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" >
+
+            <ToggleButton
+                android:id="@+id/toggleButton25"
+                android:layout_width="120dp"
+                android:layout_height="wrap_content"
+                android:text="ToggleButton"
+                android:textOn="人齐" />
+
+            <ToggleButton
+                android:id="@+id/toggleButton26"
+                android:layout_width="120dp"
+                android:layout_height="wrap_content"
+                android:text="ToggleButton"
+                android:textOn="人齐" />
+
+            <ToggleButton
+                android:id="@+id/toggleButton27"
+                android:layout_width="120dp"
+                android:layout_height="wrap_content"
+                android:text="ToggleButton"
+                android:textOn="人齐" />
+        </LinearLayout>
+        
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" >
+
+            <ToggleButton
+                android:id="@+id/toggleButton28"
+                android:layout_width="120dp"
+                android:layout_height="wrap_content"
+                android:text="ToggleButton"
+                android:textOn="人齐" />
+
+            <ToggleButton
+                android:id="@+id/toggleButton29"
+                android:layout_width="120dp"
+                android:layout_height="wrap_content"
+                android:text="ToggleButton"
+                android:textOn="人齐" />
+
+            <ToggleButton
+                android:id="@+id/toggleButton30"
+                android:layout_width="120dp"
+                android:layout_height="wrap_content"
+                android:text="ToggleButton"
+                android:textOn="人齐" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal" >
+
+            <Button
+                android:id="@+id/Button1"
+                android:layout_width="180dp"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:text="统计" />
+
+            <Button
+                android:id="@+id/Button2"
+                android:layout_width="180dp"
+                android:layout_height="wrap_content"
+                android:text="退出" />
+        </LinearLayout>
+    </LinearLayout>
+
+</ScrollView>
